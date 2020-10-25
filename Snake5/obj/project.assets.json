@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Антошик\\Desktop\\Snake5\\Snake5.csproj",
+      "projectUniqueName": "C:\\Users\\Антошик\\Desktop\\Snake111\\Snake5\\Snake5.csproj",
       "projectName": "Snake5",
-      "projectPath": "C:\\Users\\Антошик\\Desktop\\Snake5\\Snake5.csproj",
+      "projectPath": "C:\\Users\\Антошик\\Desktop\\Snake111\\Snake5\\Snake5.csproj",
       "packagesPath": "C:\\Users\\Антошик\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Антошик\\Desktop\\Snake5\\obj\\",
+      "outputPath": "C:\\Users\\Антошик\\Desktop\\Snake111\\Snake5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Антошик\\AppData\\Roaming\\NuGet\\NuGet.Config",
