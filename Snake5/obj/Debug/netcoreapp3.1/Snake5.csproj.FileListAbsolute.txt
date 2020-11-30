@@ -22,3 +22,4 @@ C:\Users\Антошик\Desktop\Snake111\Snake5\obj\Debug\netcoreapp3.1\Snake5.c
 C:\Users\Антошик\Desktop\Snake111\Snake5\obj\Debug\netcoreapp3.1\Snake5.dll
 C:\Users\Антошик\Desktop\Snake111\Snake5\obj\Debug\netcoreapp3.1\Snake5.pdb
 C:\Users\Антошик\Desktop\Snake111\Snake5\obj\Debug\netcoreapp3.1\Snake5.genruntimeconfig.cache
+C:\Users\Антошик\Desktop\Snake111\Snake5\obj\Debug\netcoreapp3.1\Snake5.csprojAssemblyReference.cache
